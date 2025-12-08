@@ -40,7 +40,7 @@ This node:
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Randy420Marsh/ComfyUI-Civitai-API-Url-Resolver.git
+   git clone https://github.com/Randy420Marsh/civitai-api-url-resolver.git
    ```
 
 3. Restart ComfyUI
@@ -58,7 +58,7 @@ Some Civitai models require authentication. To enable full functionality:
    - Copy the token (it should be 32 characters long)
 
 2. **Configure the node:**
-   - Navigate to `ComfyUI/custom_nodes/comfyui-civitai-url-resolver/`
+   - Navigate to `ComfyUI/custom_nodes/civitai-api-url-resolver/`
    - Copy `.config.example` to `.config`:
      ```bash
      cp .config.example .config
@@ -165,10 +165,11 @@ Created for the ComfyUI community to simplify Civitai model integration.
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/Randy420Marsh/ComfyUI-Civitai-API-Url-Resolver/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Randy420Marsh/ComfyUI-Civitai-API-Url-Resolver/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Randy420Marsh/civitai-api-url-resolver/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Randy420Marsh/civitai-api-url-resolver/discussions)
 - **Civitai API Docs:** https://github.com/civitai/civitai/wiki/REST-API-Reference
 
 ---
+
 
 **Note:** This is an unofficial tool and is not affiliated with or endorsed by Civitai.
